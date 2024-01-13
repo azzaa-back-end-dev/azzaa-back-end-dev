@@ -18,7 +18,5 @@ Skills: PYTHON / DJANGO / HTML / CSS / JAVASCRIPT / REACT JS
 [![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=azzaa-back-end-dev)](https://github.com/azzaa-back-end-dev/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/azzaa-back-end-dev)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
